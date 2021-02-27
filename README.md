@@ -1,4 +1,4 @@
-# Meta_Coders
+# meta_Coders
 project for our assignments
 ## The parts :-
 Akash - The main function and the other user-defined functions
